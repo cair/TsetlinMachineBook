@@ -1,4 +1,4 @@
-# An Introduction to Tsetlin Machines - Exercise Solutions
+# An Introduction to Tsetlin Machines
 
 Jupyter notebooks for the book "An Introduction to Tsetlin Machines" (https://tsetlinmachine.org).
 
