@@ -16,9 +16,3 @@ keywords:
     - "Tsetlin"
     - "tsetlinmachine"
     - "TsetlinMachineBook"
-preferred-citation:
-    type: book
-    authors:
-      - family-names: "Granmo"
-        given-names: "Ole-Christoffer"
-        orcid: "https://orcid.org/0000-0002-7287-030X"
