@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "An Introduction to Tsetlin Machines"
+abstract: "Learn how to make Artificial Intelligence for all in the new book on Tsetlin Machines by Ole-Christoffer Granmo. Avoid Big Tech’s black box models, go for full transparency and accessibility."
+authors:
+  - family-names: "Granmo"
+    given-names: "Ole-Christoffer"
+    orcid: "https://orcid.org/0000-0002-7287-030X"
+version: 0.0.0
+date-released: 2021-09-11
+repository-code: "https://github.com/lewiuberg/TsetlinMachineBook"
+url: "https://tsetlinmachine.org"
+license: MIT
+keywords:
+    - "Tsetlin Machine"
+    - "Tsetlin"
+    - "tsetlinmachine"
+    - "TsetlinMachineBook"
+preferred-citation:
+    type: book
+    authors:
+      - family-names: "Granmo"
+        given-names: "Ole-Christoffer"
+        orcid: "https://orcid.org/0000-0002-7287-030X"
