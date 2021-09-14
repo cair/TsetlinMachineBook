@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-7287-030X"
 version: 0.0.0
 date-released: 2021-09-11
-repository-code: "https://github.com/lewiuberg/TsetlinMachineBook"
+repository-code: "https://github.com/cair/TsetlinMachineBook"
 url: "https://tsetlinmachine.org"
 license: MIT
 keywords:
