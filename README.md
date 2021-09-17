@@ -2,6 +2,10 @@
 
 Jupyter notebooks for the book "An Introduction to Tsetlin Machines" (https://tsetlinmachine.org).
 
+## Chapter 1
+
+The interactive python notebook for [Chapter 1: Your First Tsetlin Machine](https://github.com/cair/TsetlinMachineBook/blob/main/Chapter_1.ipynb) can be found in this repository. If you want to have a look at it right away, you may run a [binder session in your browser](https://mybinder.org/v2/gh/cair/TsetlinMachineBook/main?filepath=Chapter_1.ipynb).
+
 ## Licence
 
 Copyright (c) 2021 Ole-Christoffer Granmo
